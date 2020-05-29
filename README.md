@@ -7,3 +7,5 @@ npm i --save whatsapp-web.js
 upload file bot.js
 node bot.js
 
+
+
